@@ -45,3 +45,7 @@ re entering installer
 - VM cloning for backup/recovery
 - Multi OS environment setup (Windows + Linux)
 - Boot troubleshooting (UEFI)
+
+## Screenshots
+![Lab Network Diagram](screenshots/lab-network-diagram.svg)
+![UTM VM Overview](screenshots/utm-vm-overview.png)

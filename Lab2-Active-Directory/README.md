@@ -60,3 +60,7 @@ Configure a fully functional Active Directory domain controller using Samba on U
 - Domain join process for Windows clients
 - Cross platform administration (Linux DC + Windows client)
 - Port conflict diagnosis and resolution
+
+## Screenshots
+![Samba AD Users and Groups](screenshots/samba-ad-users-groups.png)
+![Domain Join Proof](screenshots/domain-join-proof.png)
